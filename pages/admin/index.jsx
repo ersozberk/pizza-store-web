@@ -70,7 +70,7 @@ const Index = ({orders,products}) => {
                                 <th>Id</th>
                                 <th>Title</th>
                                 <th>Price</th>
-                                <th>Action</th>
+                                <th>Action </th>
                             </tr>
                             </tbody>
                             {pizzaList.map((product)=>(
